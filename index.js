@@ -13,7 +13,7 @@ app.get("/get_text", (req, res)=> {
     res.send({
         nom: "Sitael",
         verified: false,
-        birthdate: 01/25/726,
+        birthdate: 1/25/726,
         friends: ["Lucifer", "Cerberus", "Amenadiel"],
 
     });
