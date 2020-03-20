@@ -8,3 +8,13 @@ app.listen(3000, () => {
 });
 
 app.use(express.static("./public"));
+
+app.get("/get_text", (req, res)=> {
+    res.send({
+        nom: "Sitael",
+        verified: false,
+        birthdate: 01/25/726,
+        friends: ["Lucifer", "Cerberus", "Amenadiel"],
+
+    });
+});
