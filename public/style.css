@@ -1,0 +1,14 @@
+#article-1 {
+    background-color: black;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+    color: #ff0026;
+}
+
+#article-1 p {
+    font-size: 25px;
+    color: lightgray;
+}
