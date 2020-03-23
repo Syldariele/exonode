@@ -4,10 +4,10 @@
 
 - [X] installation express
 
-- [ ]  création index.html avec dedans :
-     - [ ]  - html
-     - [ ]  - css ( dans une feuille appart )
-     - [ ]  - une image stockée à côté du fichier html, et appelée dedans
+- [X]  création index.html avec dedans :
+     - [X]  - html
+     - [X]  - css ( dans une feuille appart )
+     - [X]  - une image stockée à côté du fichier html, et appelée dedans
     
 - [X]  une route "/api/user" qui renvoie un objet json avec les clés :
      - [X]  - name (string)
@@ -15,6 +15,6 @@
      - [X]  - birthdate (Date)
      - [X]  - friends (Array)
     
-- [ ] publication du projet sur github
+- [X] publication du projet sur github
 
-- [ ] après avoir terminé, envoi du lien sur Zoom ou mp slack
+- [X] après avoir terminé, envoi du lien sur Zoom ou mp slack
