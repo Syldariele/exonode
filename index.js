@@ -1,5 +1,4 @@
 const express = require("express");
-const fs = require("fs");
 
 const app = express();
 
@@ -15,7 +14,6 @@ app.get("/get_text", (req, res)=> {
         verified: false,
         birthdate: new Date(725, 1, 25),
         friends: ["Lucifer", "Cerberus", "Amenadiel"],
-
     });
 });
 
